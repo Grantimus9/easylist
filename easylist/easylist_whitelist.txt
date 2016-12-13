@@ -1840,6 +1840,8 @@
 @@||www.google.*/search?$subdocument,~third-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||www.networkadvertising.org/choices/|$document
+@@||optout.networkadvertising.org/*|$document
+@@||*.networkadvertising.org/*|$document
 @@||www8-hp.com^*/styles/ads/$domain=hp.com
 @@||xbox.com/assets/ad/$image,~third-party
 @@||xboxlive.com/assets/*_banner_ad.$image,domain=forzamotorsport.net
